@@ -1,9 +1,6 @@
 ### Hello 👋
 
-<!--
-**sasquatchchicken/sasquatchchicken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...security architecture | digital forensics in cybersecurity analysis and penetration testing_involving networking, applications, operating systems, coding, exploit development, and threat modeling.
