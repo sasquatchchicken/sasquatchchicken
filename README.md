@@ -2,9 +2,9 @@
 
 
 
-- 🌱 I’m currently learning ... AWS, Docker, Kubernetes 
+- 🌱 I’m currently learning ... Splunk SIEM, AWS, Docker, Kubernetes 
 - 🔭 working on ...security architecture | cybersecurity analysis | and penetration testing | _involving networking, applications, operating systems, coding, exploit development, and threat modeling.
-- 🔭 working on ..._developing an automated detective tool suite to identify risks based on behavioral_shifts_and_patterns._
+- 🔭 working on ...vulnerability management | threat assessment
 - 👯 I’m looking to collaborate on ...more with Python
 - 🤔 I’m studying for the... **CompTia Security+** and the **CompTia CYSA+** 
 - 💬 Ask me about ...go_ahead_
