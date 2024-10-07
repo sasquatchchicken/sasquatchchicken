@@ -1,5 +1,4 @@
 - 🌱 I’m currently applying my talents to full-scale threat simulations 
 - 🔭 deploying ...engagements designed to test an organization's ability to prevent | detect | and respond to a specific attack pattern.
 - 👯 I’m looking to collaborate on ...more with badusb | Python | PWSH | swift | ble 
-- 📫 **https://linktr.ee/project_workflow**
 - ⚡ : ...brand new unused day, use it well relatives
